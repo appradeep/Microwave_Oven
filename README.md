@@ -1,5 +1,6 @@
 # Microwave_Oven
-Embedded System || Microwave Oven || Emertxe
+
+## Embedded System || Microwave Oven || Emertxe
 
 In this project, "Microwave Oven Simulation" project is being implemented based on my learnings from Emertxe Information Technologies' Embedded Systems Internship Program.
 
